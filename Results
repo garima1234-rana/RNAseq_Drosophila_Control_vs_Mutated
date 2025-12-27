@@ -1,0 +1,20 @@
+results/
+├── qc_plots/
+│   ├── barplot_library_size.png
+│   ├── boxplot_normalized_counts.png
+│   └── density_plot.png
+│
+├── alignment_summary/
+│   └── star_alignment_summary.txt
+│
+├── deg_analysis/
+│   ├── volcano_plot.png
+│   ├── MA_plot.png
+│   ├── PCA_plot.png
+│   └── heatmap_top100_DEGs.png
+│
+├── enrichment/
+│   ├── GO_biological_process.png
+│   ├── GO_molecular_function.png
+│   └── GO_cellular_component.png
+│
